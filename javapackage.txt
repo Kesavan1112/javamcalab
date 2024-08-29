@@ -1,0 +1,5 @@
+E:\>javac -d . Mypack\Oone.java
+
+E:\>javac two.java
+
+E:\>java two
