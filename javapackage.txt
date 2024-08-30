@@ -3,3 +3,9 @@ E:\>javac -d . Mypack\Oone.java
 E:\>javac two.java
 
 E:\>java two
+
+
+ubuntu
+student@administrator-IdeaCentre-3-07IMB05:~/24PA3514/4$ javac -d . Mypack/Bank.java
+student@administrator-IdeaCentre-3-07IMB05:~/24PA3514/4$ javac Bankaccount.java
+student@administrator-IdeaCentre-3-07IMB05:~/24PA3514/4$ java Bankaccount.java
