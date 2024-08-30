@@ -1,0 +1,57 @@
+student@administrator-IdeaCentre-3-07IMB05:~/24PA3514/7$ javac Menudrive.java
+Note: Menudrive.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+student@administrator-IdeaCentre-3-07IMB05:~/24PA3514/7$ java Menudrive.java
+Menudrive.java:32: warning: [unchecked] unchecked call to addElement(E) as a member of the raw type Vector
+                v.addElement(city);
+                            ^
+  where E is a type-variable:
+    E extends Object declared in class Vector
+Menudrive.java:68: warning: [unchecked] unchecked call to setElementAt(E,int) as a member of the raw type Vector
+v.setElementAt(ucity,position);
+              ^
+  where E is a type-variable:
+    E extends Object declared in class Vector
+2 warnings
+01.Add Element
+02.Remove Element
+ 03.Update Element
+04.Display Element
+05.Exit
+1
+Enter City Name:
+trichy
+city name added
+do you want to continue ? Press Y for Yes or Press N for No 
+y
+student@administrator-IdeaCentre-3-07IMB05:~/24PA3514/7$ 
+student@administrator-IdeaCentre-3-07IMB05:~/24PA3514/7$ 
+student@administrator-IdeaCentre-3-07IMB05:~/24PA3514/7$ java Menudrive
+01.Add Element
+02.Remove Element
+ 03.Update Element
+04.Display Element
+05.Exit
+2
+city name list is empty.
+do you want to continue ? Press Y for Yes or Press N for No 
+Y
+01.Add Element
+02.Remove Element
+ 03.Update Element
+04.Display Element
+05.Exit
+1
+Enter City Name:
+trichy
+city name added
+do you want to continue ? Press Y for Yes or Press N for No 
+Y
+01.Add Element
+02.Remove Element
+ 03.Update Element
+04.Display Element
+05.Exit
+4
+Vector:[trichy]
+do you want to continue ? Press Y for Yes or Press N for No 
